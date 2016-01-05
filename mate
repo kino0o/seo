@@ -1,0 +1,50 @@
+<meta charset="UTF-8">
+<meta http-equiv="refresh" content="5;url=" />
+<link rel="copyright" href="copyright.html" 　/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="description" content="150 words" />
+<meta name="keywords" content="your tags" />
+<!--
+    all：文件将被检索，且页面上的链接可以被查询；
+    none：文件将不被检索，且页面上的链接不可以被查询；
+    index：文件将被检索；
+    follow：页面上的链接可以被查询；
+    noindex：文件将不被检索；
+    nofollow：页面上的链接不可以被查询。
+ -->
+<meta name="robots" content="index,follow" />
+<meta name="author" content="author name" />
+<meta name="google" content="index,follow" />
+<meta name="googlebot" content="index,follow" />
+<meta name="verify" content="index,follow" />
+<!-- 启用 WebApp 全屏模式 -->
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<!-- 隐藏状态栏/设置状态栏颜色：只有在开启WebApp全屏模式时才生效。content的值为default | black | black-translucent 。 -->
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+<!-- 添加到主屏后的标题 -->
+<meta name="apple-mobile-web-app-title" content="标题">
+<!-- 忽略数字自动识别为电话号码 -->
+<meta content="telephone=no" name="format-detection" />
+<!-- 忽略识别邮箱 -->
+<meta content="email=no" name="format-detection" />
+<meta name="apple-itunes-app" content="app-id=myAppStoreID, affiliate-data=myAffiliateData, app-argument=myURL" />
+<!-- 添加智能 App 广告条 Smart App Banner：告诉浏览器这个网站对应的app，并在页面上显示下载banner:https://developer.apple.com/library/ios/documentation/AppleApplications/Reference/SafariWebContent/PromotingAppswithAppBanners/PromotingAppswithAppBanners.html -->
+<!-- 针对手持设备优化，主要是针对一些老的不识别viewport的浏览器，比如黑莓 -->
+<meta name="HandheldFriendly" content="true">
+<!-- 微软的老式浏览器 -->
+<meta name="MobileOptimized" content="320">
+<!-- uc强制竖屏 -->
+<meta name="screen-orientation" content="portrait">
+<!-- QQ强制竖屏 -->
+<meta name="x5-orientation" content="portrait">
+<!-- UC强制全屏 -->
+<meta name="full-screen" content="yes">
+<!-- QQ强制全屏 -->
+<meta name="x5-fullscreen" content="true">
+<!-- UC应用模式 -->
+<meta name="browsermode" content="application">
+<!-- QQ应用模式 -->
+<meta name="x5-page-mode" content="app">
+<!-- windows phone 点击无高光 -->
+<meta name="msapplication-tap-highlight" content="no">
